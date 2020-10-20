@@ -4,6 +4,16 @@ Based on haskell features, exemples are worth a 1000 words
 
 
 
+## Installation
+
+[Pypi](https://pypi.org/project/lazy-computing/)
+
+```bash
+pip3 install lazy_computing
+```
+
+
+
 ## Usage
 
 ```python
